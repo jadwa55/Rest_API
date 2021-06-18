@@ -1,10 +1,10 @@
 # Rest API
 
-++ SingUp
-++ Login
-++ CRUD
-++ Image Upload
-++ Comment
++ SingUp
++ Login
++ CRUD
++ Image Upload
++ Comment
 
 # CRUD functionality
 - DB Migrations
